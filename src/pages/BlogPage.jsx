@@ -31,7 +31,7 @@ const blogPosts = [
     date: "January 3, 2023",
     title: "The secret tips & tricks to prepare a perfect burger",
   },
-    {
+  {
     image: "/images/cheesecake.png",
     date: "January 3, 2023",
     title: "7 delicious cheesecake recipes you can prepare",
@@ -60,8 +60,9 @@ const blogPosts = [
     image: "/images/quick.png",
     date: "January 3, 2023",
     title: "Top 20 simple and quick desserts for kids",
-  },
-];
+  }
+]
+
 
 const BlogPage = () => {
   return (
