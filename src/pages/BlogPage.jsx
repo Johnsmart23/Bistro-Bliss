@@ -22,7 +22,7 @@ const blogPosts = [
     title: "How to prepare delicious chicken tenders",
   },
   {
-    image: "/images/gadgets .png",
+    image: "/images/gadgets.png",
     date: "January 3, 2023",
     title: "5 great cooking gadgets you can buy to save time",
   },
@@ -42,7 +42,7 @@ const blogPosts = [
     title: "5 great pizza restaurants you should visit this city",
   },
   {
-    image: "/images/Mask group.png",
+    image: "/images/Mask-group.png",
     date: "January 3, 2023",
     title: "5 great cooking gadgets you can buy to save time",
   },
